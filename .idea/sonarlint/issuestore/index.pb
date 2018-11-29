@@ -1,0 +1,19 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+Y
+)app/src/main/res/layout/fragment_main.xml,8\c\8ca365160a3b45bd5252ffc369aa8940523a333d
+c
+3app/src/main/java/com/jhonny/listas/MainActivity.kt,4\8\48353c360153d39ee379476407f8e0176e8c7e28
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+R
+"app/src/main/res/values/dimens.xml,c\3\c3c1811dec2dbad2deeafb9aad505ca9631da740
+R
+"app/src/main/res/values/colors.xml,9\6\969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+R
+"app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
+k
+;app/src/main/java/com/jhonny/listas/MainActivityFragment.kt,6\8\68cb4e05940a56e725f484e0ee41793391a69efd
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
